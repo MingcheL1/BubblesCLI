@@ -5,8 +5,9 @@ A frutiger aero inspired terminal bubble generator for Linux
 ## Table of Contents
 
 - [Installation](#installation)
-- [Demo] (#demo)
-- [Uninstall] (uninstall)
+- [demo](#demo)
+- [configuration](#configuration)
+- [Uninstall](uninstall)
 
 ## Installation
 
@@ -25,6 +26,10 @@ sudo make install
 ## Demo
 
 COMING SOON
+
+# Configuration
+
+All configurations are located in ~/.config/bubblescli/config.ini
 
 ## Uninstall
 

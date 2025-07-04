@@ -173,6 +173,9 @@ int main(int argc, char* argv[]) {
     int tick = 0;
 
     while (true) {
+
+        std::cout << "\033[?25l";
+
         int width = getTerminalWidth();
         int height = getTerminalHeight();
 
