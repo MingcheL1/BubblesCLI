@@ -5,8 +5,8 @@ A frutiger aero inspired terminal bubble generator for Linux
 ## Table of Contents
 
 - [Installation](#installation)
-- [demo](#demo)
-- [configuration](#configuration)
+- [Demo](#demo)
+- [Configuration](#configuration)
 - [Uninstall](uninstall)
 
 ## Installation
