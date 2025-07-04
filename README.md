@@ -12,6 +12,7 @@ A frutiger aero inspired terminal bubble generator for Linux
 
 First, clone the repo
 ```bash
+git clone https://github.com/MingcheL1/BubblesCLI.git
 ```
 
 Then, install it
