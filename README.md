@@ -25,8 +25,14 @@ sudo make install
 
 ## Demo
 
-COMING SOON
+Default Mode:
+![Default](demo/bubblescli.gif)
 
+bubblescli -b:
+![Big Bubbles](demo/big_bubblescli.gif)
+
+bubblescli --no-color:
+![No Color](demo/bubblescli_no_color.gif)
 # Configuration
 
 All configurations are located in ~/.config/bubblescli/config.ini
